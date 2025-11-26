@@ -1,4 +1,4 @@
-    # Contributing
+# Contributing
 
 Thank you for your interest in contributing to Fanbold! We appreciate your willingness to help make this tool better for everyone. Your help is essential for keeping it great.
 Contributions to this project are released to the public under the project's open source license.
